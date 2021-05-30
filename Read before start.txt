@@ -1,0 +1,14 @@
+
+
+Required component: Arduino uno R3, LCD 16/2 , Potentiometer, Push Button, Buzzer,resistor (560 ohm,10K ohm),Jump wire. 
+
+Required knowledge : Basic Electronics and Basic Arduino. 
+
+Final result: The output shown as HH:MM:SS format. 
+	      You can reset using PushButton. 
+	      Buzzer sound for 1 secound after every 1 minute. 
+
+Process: Follow the circuit and code . .  Just remember use 10K resistor with button and 560ohm. . 
+
+
+Have a great day. . .  
